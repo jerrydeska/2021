@@ -58,6 +58,7 @@ To add your own project below, just [edit](https://github.com/wwdc/2021/edit/mai
 |[Ishan Chhabra](https://github.com/ishan-chhabra)|[GitHub](https://github.com/ishan-chhabra/spacewalk)|[YouTube](https://www.youtube.com/watch?v=lOLcMdaWx5s)|AVFoundation, SpriteKit|Accepted|
 |[Jan Luca Siewert](https://jl-siewert.de/about)|[GitHub](https://github.com/jlsiewert/SwiftAR)|[YouTube](https://youtu.be/3GeFRthFBs8)|ARKit, SceneKit, SwiftUI|Accepted|
 |[Javier Gallo Roca](https://twitter.com/Happygallo)|[GitHub](https://github.com/Happygallo/LangtonsAnt.git)|[YouTube](https://youtu.be/gCRG00CTZCo)|SpriteKIt, SwiftUI|Rejected|
+|[Jerry Deska Perdana](https://github.com/jerrydeska/)|[GitHub](https://github.com/jerrydeska/PerfectPitchTrainer)|UIKit, AVFoundation|Accepted|
 |[Jia Chen](https://github.com/jiachenyee)|[GitHub](https://github.com/jiachenyee/wwdc21explorer)||SceneKit, UIKit, SwiftUI, Natural Language|Accepted|
 |[Jimmy Tan](https://www.linkedin.com/chatin/wnc/in/jianhui-jimmy-tan-6b2595175)|[GitHub](https://github.com/JimmyTan823/wwdc)|[YouTube](https://www.youtube.com/watch?v=hwe_fkz52fs)|SwiftUI, AVFoundation|Submitted|
 |[João Carlos Magalhães](https://www.youtube.com/channel/UCDNFUQY2XT44NXXZj7-oG-g)|[GitHub](https://github.com/joaocarlos-mag/WWDC-2021-Scholarship-Submission)||UIKit, SpriteKit, SceneKit, Accelerate|Submitted|
